@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Robot] How I ended up overcomplicating a button
+title: Robot - How I ended up overcomplicating a button
 ---
 
 If you are trying to put together your own robot following [my instructions](https://github.com/angelalonso/robot) you might have stepped into a photo interrupter being used as a simple button.
