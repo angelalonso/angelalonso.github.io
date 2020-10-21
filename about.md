@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Systems Engineer that gets roughly 2 hours of free time per week.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'd love to discuss politics, but I don't know have the time to learn to understand politics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Create a PR on my page's repo, be creative](https://github.com/angelalonso/angelalonso.github.io/pulls)
