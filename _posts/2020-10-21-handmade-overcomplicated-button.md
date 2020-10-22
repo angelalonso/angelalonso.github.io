@@ -13,7 +13,7 @@ For now, the bare minimum input I needed was a button, and I had a bunch of [the
 
 My first try was the [metal touch sensor](https://steemit.com/utopian-io/@ted7/arduino-101-using-a-ky-036-metal-touch-sensor). Never got to make it work, and I gave it a 50% chance that the sensor was broken (the integrated LED turned on and off for a couple times, then stopped reacting to any touch).
 
-![metal touch mounted]("../images/robot/metal_touch_mounted.jpg")
+![metal touch sensor mounted]("../images/robot/metal_touch_mounted.jpg")
 *This is how the metal touch sensor looked like*
 ![metal touch construct]("../images/robot/metal_touch_construct.jpg")
 
