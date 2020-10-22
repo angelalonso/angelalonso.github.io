@@ -7,12 +7,15 @@ If you are trying to put together your own robot following [my instructions](htt
 
 Here's the reason behind that:
 
-
 For v2 I wanted to add some kind of input and output.
 
 For now, the bare minimum input I needed was a button, and I had a bunch of [these sensors](https://www.banggood.com/Geekcreit-37-In-1-Sensor-Module-Board-Set-Starter-Kits-SENSOR-KIT-For-Arduino-Carton-Box-Package-p-89734.html?akmClientCountry=DE&&cur_warehouse=CN) in a box somewhere.
 
 My first try was the [metal touch sensor](https://steemit.com/utopian-io/@ted7/arduino-101-using-a-ky-036-metal-touch-sensor). Never got to make it work, and I gave it a 50% chance that the sensor was broken (the integrated LED turned on and off for a couple times, then stopped reacting to any touch).
+
+!["metal touch mounted"](images/robot/metal_touch_mounted.jpg)
+*This is how the metal touch sensor looked like*
+!["metal touch construct"](images/robot/metal_touch_construct.jpg)
 
 Then I moved to the most obvious one: the [button sensor](https://steemit.com/utopian-io/@ted7/arduino-101-using-a-ky-036-metal-touch-sensor). Also didn't work.
 
