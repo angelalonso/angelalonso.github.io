@@ -22,6 +22,8 @@ Put together some support with wire, mounted it and... robot goes straight!
 
 Yeaaaaahwait! what if the robot wants to rotate? Bummer, the robot doesn't rotate because the rubber  on the new wheels don't go well with slipping sideways.
 
+I'd add a GIF of it, but all you'd be seeing is the previous one, stuck.
+
 And that is a good example of why engineering is so much more than having ideas that "might work".
 
 When you don't do the math, you waste time putting something awesome together that you have to get rid of.
