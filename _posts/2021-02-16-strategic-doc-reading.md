@@ -31,10 +31,11 @@ So... here is my current list (and the reading time needed for each topic):
 - [K8S](https://kubernetes.io/docs/home/)
   - [Components](https://kubernetes.io/docs/concepts/overview/components/) - 9 mins
   - [API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/) - 3 mins
-  - [Architecture - Nodes](https://kubernetes.io/docs/concepts/architecture/nodes/) - 21 mins
-  - [Architecture - Control plane <-> node comms](https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/)
-  - [Architecture - Controllers](https://kubernetes.io/docs/concepts/architecture/controller/)
-  - [Architecture - Cloud controller manager](https://kubernetes.io/docs/concepts/architecture/cloud-controller/)
+  - Architecture
+    - [Nodes](https://kubernetes.io/docs/concepts/architecture/nodes/) - 21 mins
+    - [Control plane <-> node comms](https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/)
+    - [Controllers](https://kubernetes.io/docs/concepts/architecture/controller/)
+    - [Cloud controller manager](https://kubernetes.io/docs/concepts/architecture/cloud-controller/)
 
 I continue adding details as I progress, but mostly these are the premises for this system to work (in order of importance):
 - Do it regularly (starting with once a week, 1.5hrs.)
