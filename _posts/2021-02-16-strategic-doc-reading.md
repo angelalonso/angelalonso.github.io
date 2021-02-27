@@ -15,7 +15,7 @@ With a bit of self-reflection, I believe I am the perfect candidate to test it b
 So... here is my current list (and the reading time needed for each topic):
 - [AWS VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
   - [How it works](https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html) - 12 mins
-  - [VPC Peering](ttps://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html) - 2 mins
+  - [VPC Peering](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html) - 2 mins
     - [Basics](https://docs.aws.amazon.com/vpc/latest/peering/vpc-peering-basics.html) - 13 mins
     - [Modify](https://docs.aws.amazon.com/vpc/latest/peering/modify-peering-connections.html) - 2 mins
 - [AWS RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
