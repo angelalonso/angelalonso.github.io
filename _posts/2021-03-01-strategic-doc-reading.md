@@ -35,6 +35,7 @@ So... here is my current list (and the reading time needed for each topic):
   - [Architecture - Control plane <-> node comms](https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/)
   - [Architecture - Controllers](https://kubernetes.io/docs/concepts/architecture/controller/)
   - [Architecture - Cloud controller manager](https://kubernetes.io/docs/concepts/architecture/cloud-controller/)
+  - [Well Known labels, annotations and taints](https://kubernetes.io/docs/reference/labels-annotations-taints/)
 
 I continue adding details as I progress, but mostly these are the premises for this system to work (in order of importance):
 - Do it regularly (starting with once a week, 1.5hrs.)
