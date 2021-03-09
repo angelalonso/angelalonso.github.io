@@ -28,6 +28,8 @@ So... here is my current list (and the reading time needed for each topic):
     - [OIDC provider](https://docs.aws.amazon.com/eks/latest/userguide/enable-iam-roles-for-service-accounts.html) - 2 mins
     - [Create IAM role and policy](https://docs.aws.amazon.com/eks/latest/userguide/create-service-account-iam-policy-and-role.html) - 4 mins
     - [Associate an IAM role to a service account](https://docs.aws.amazon.com/eks/latest/userguide/specify-service-account-role.html) - 5 mins
+- [AWS App Mesh](https://docs.aws.amazon.com/app-mesh/latest/userguide/what-is-app-mesh.html) - 7 mins
+  - [Best practices](https://docs.aws.amazon.com/app-mesh/latest/userguide/best-practices.html) - 9 mins
 - [K8S](https://kubernetes.io/docs/home/)
   - [Components](https://kubernetes.io/docs/concepts/overview/components/) - 9 mins
   - [API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/) - 3 mins
