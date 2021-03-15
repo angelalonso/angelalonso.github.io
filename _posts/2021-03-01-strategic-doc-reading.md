@@ -35,9 +35,9 @@ So... here is my current list (and the reading time needed for each topic):
   - [API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/) - 3 mins
   - Architecture
     - [Nodes](https://kubernetes.io/docs/concepts/architecture/nodes/) - 21 mins
-    - [Control plane <-> node comms](https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/)
-    - [Controllers](https://kubernetes.io/docs/concepts/architecture/controller/)
-    - [Cloud controller manager](https://kubernetes.io/docs/concepts/architecture/cloud-controller/)
+    - [Control plane <-> node comms](https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/) - 6 mins
+    - [Controllers](https://kubernetes.io/docs/concepts/architecture/controller/) - 9 mins
+    - [Cloud controller manager](https://kubernetes.io/docs/concepts/architecture/cloud-controller/) - 6 mins
   - [Well Known labels, annotations and taints](https://kubernetes.io/docs/reference/labels-annotations-taints/) - 8 mins
 
 I continue adding details as I progress, but mostly these are the premises for this system to work (in order of importance):
